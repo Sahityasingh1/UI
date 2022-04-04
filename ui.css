@@ -1,0 +1,147 @@
+#all {
+    width: 475px;
+    border: 1px solid gray;
+    margin: 20px;
+    height: 800px;
+    margin-left: 400px;
+    background-color: #FFFFFF;
+}
+
+#top {
+    width: 475px;
+    padding: 10px;
+    border: 1px solid gray;
+    height: 200px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    background-color: #3290f9;
+}
+
+#text {
+    width: 146px;
+    height: 18px;
+    font-size: 20px;
+    color: white;
+    font-family: Gilroy-SemiBold;
+    margin-left: 60px;
+}
+
+#content {
+    width: 395px;
+    padding: 30px;
+    border: 1px solid gray;
+    height: 155px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-left: 30px;
+    font-family: Nunito Sans;
+    font-size: 16px;
+    background-color: white;
+    margin-top: 30px;
+}
+
+.loan {
+    width: 120px;
+    border-radius: 20px;
+    background-color: #0d6efd;
+}
+
+#b {
+    margin-left: 200px;
+}
+
+.line {
+    width: 35px;
+    height: 5px;
+    background-color: white;
+    margin: 6px 0;
+}
+
+#num {
+    width: 146px;
+    height: 18px;
+    font-size: 20px;
+    color: white;
+    font-family: Gilroy-SemiBold;
+    margin-left: 80px;
+    margin-top: 10px;
+}
+
+#today {
+    width: 395px;
+    padding: 30px;
+    border: 0.4px solid gray;
+    height: 90px;
+    margin-left: 30px;
+    font-family: Gilroy-SemiBold;
+    font-size: 16px;
+    background-color: white;
+    margin-top: 30px;
+}
+
+.txt {
+    font-family: Gilroy-SemiBold;
+    font-size: 16px;
+    float: left;
+    padding-right: 57px;
+}
+
+.n {
+    float: right;
+    margin-left: 20px;
+    font-family: Nunito Sans, Bold;
+    color: #2547A5;
+    font-size: 16px;
+}
+
+#bank1 {
+    width: 395px;
+    padding: 30px;
+    border: 0px;
+    height: 90px;
+    margin-left: 30px;
+    font-family: Gilroy-SemiBold;
+    font-size: 16px;
+    background-color: white;
+    margin-top: 30px;
+}
+
+#trans {
+    font-family: Gilroy-SemiBold;
+    font-size: 16px;
+    float: left;
+    padding-right: 87px;
+}
+
+#settle {
+    font-family: Gilroy-SemiBold;
+    font-size: 16px;
+    float: right;
+}
+
+#date {
+    width: 460px;
+    padding: 20px;
+    border: 0px solid gray;
+    height: 10px;
+    margin-left: 0px;
+    font-family: Nunito Sans, SemiBold;
+    font-size: 16px;
+    background-color: white;
+    margin-top: 10px;
+    padding-top: 0px;
+    padding-left: 180px;
+    background-color: #F0F0F7;
+}
+
+.viewall {
+    width: 120px;
+    border-radius: 40px;
+    color: black;
+    background-color: white;
+}
+
+#view {
+    padding-left: 170px;
+    padding-top: 20px;
+}
